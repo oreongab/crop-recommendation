@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+ipykernel
+xgboost==2.1.4
+torch

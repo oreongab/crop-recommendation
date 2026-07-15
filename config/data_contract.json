@@ -1,0 +1,63 @@
+{
+  "contract_version": "prototype-six-feature-v1",
+  "model_scope": "prototype_only",
+  "training_source": "Crop_Recommendation.csv",
+  "target": "crop_label",
+  "model_features": [
+    {
+      "name": "n",
+      "unit": "soil_nutrient_ratio",
+      "dtype": "float",
+      "missing_allowed": false
+    },
+    {
+      "name": "p",
+      "unit": "soil_nutrient_ratio",
+      "dtype": "float",
+      "missing_allowed": false
+    },
+    {
+      "name": "k",
+      "unit": "soil_nutrient_ratio",
+      "dtype": "float",
+      "missing_allowed": false
+    },
+    {
+      "name": "ph",
+      "unit": "ph_scale",
+      "dtype": "float",
+      "missing_allowed": false
+    },
+    {
+      "name": "temperature",
+      "unit": "degree_celsius",
+      "dtype": "float",
+      "missing_allowed": false
+    },
+    {
+      "name": "rainfall",
+      "unit": "millimeter",
+      "dtype": "float",
+      "missing_allowed": false
+    }
+  ],
+  "compatibility_inputs": [
+    {
+      "name": "soil_type",
+      "model_usage": "not_used_by_prototype_model",
+      "planned_usage": "trusted_compatibility_layer"
+    },
+    {
+      "name": "soil_moisture",
+      "unit": "unresolved",
+      "model_usage": "not_used_by_prototype_model",
+      "planned_usage": "trusted_compatibility_layer"
+    }
+  ],
+  "prohibited_mappings": [
+    "atmospheric_humidity_to_soil_moisture",
+    "soil_color_to_soil_type",
+    "unverified_precipitation_to_rainfall",
+    "cross_source_npk_without_unit_equivalence"
+  ]
+}

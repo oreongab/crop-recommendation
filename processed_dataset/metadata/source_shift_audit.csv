@@ -1,0 +1,2 @@
+features_used,rows_evaluated,sources_evaluated,majority_baseline,source_top_one_accuracy,source_balanced_accuracy,dataset_shift_detected,decision
+n|p|k|ph|temperature|rainfall,10491,6,0.28589580686149935,0.8138500635324015,0.7598853320010998,True,do_not_naively_merge_sources

@@ -1,0 +1,67 @@
+crop_label,split,row_count
+apple,test,15
+apple,train,70
+apple,validation,15
+banana,test,15
+banana,train,70
+banana,validation,15
+black gram,test,15
+black gram,train,70
+black gram,validation,15
+chickpea,test,15
+chickpea,train,70
+chickpea,validation,15
+coconut,test,15
+coconut,train,70
+coconut,validation,15
+coffee,test,15
+coffee,train,70
+coffee,validation,15
+cotton,test,15
+cotton,train,70
+cotton,validation,15
+grapes,test,15
+grapes,train,70
+grapes,validation,15
+jute,test,15
+jute,train,70
+jute,validation,15
+kidney bean,test,15
+kidney bean,train,70
+kidney bean,validation,15
+lentil,test,15
+lentil,train,70
+lentil,validation,15
+maize,test,15
+maize,train,70
+maize,validation,15
+mango,test,15
+mango,train,70
+mango,validation,15
+moth bean,test,15
+moth bean,train,70
+moth bean,validation,15
+mung bean,test,15
+mung bean,train,70
+mung bean,validation,15
+muskmelon,test,15
+muskmelon,train,70
+muskmelon,validation,15
+orange,test,15
+orange,train,70
+orange,validation,15
+papaya,test,15
+papaya,train,70
+papaya,validation,15
+pigeon pea,test,15
+pigeon pea,train,70
+pigeon pea,validation,15
+pomegranate,test,15
+pomegranate,train,70
+pomegranate,validation,15
+rice,test,15
+rice,train,70
+rice,validation,15
+watermelon,test,15
+watermelon,train,70
+watermelon,validation,15

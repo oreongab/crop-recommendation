@@ -1,0 +1,17 @@
+{
+  "raw_directory": "dataset",
+  "processed_directory": "processed_dataset",
+  "source_files": 9,
+  "total_rows": 300054,
+  "cleaned_rows": 296006,
+  "exact_duplicate_rows_removed_from_cleaned_copies": 4048,
+  "complete_required_rows": 10000,
+  "imputation_applied": false,
+  "unit_conversion_applied": false,
+  "approved_crop_label_mapping_applied": true,
+  "outlier_deletion_applied": false,
+  "train_validation_test_split_created": false,
+  "raw_files_modified": false,
+  "all_row_reconciliations_passed": true,
+  "full_eight_feature_training_source_approved": false
+}

@@ -1,0 +1,59 @@
+{
+  "raw_source_files": 9,
+  "raw_hashes_match_manifest": true,
+  "exact_duplicates_removed_from_cleaned_copies": 4048,
+  "cleaning_reconciliation_passed": true,
+  "verified_model_feature_units": [
+    "k",
+    "n",
+    "p",
+    "ph",
+    "rainfall",
+    "temperature"
+  ],
+  "soil_type_model_status": "not_available_not_used",
+  "soil_moisture_model_status": "not_available_not_used",
+  "selected_source_crop_mapping_rules": [
+    "identity",
+    "spacing_variant"
+  ],
+  "frozen_split_rows": {
+    "train": 1540,
+    "validation": 330,
+    "test": 330
+  },
+  "crop_classes_per_split": 22,
+  "feature_fingerprint_overlap": 0,
+  "test_sha256": "640fb65e321b52da48a9c3872823061e328f934cf60536e2090adb014f79d651",
+  "test1": {
+    "code_cells": 29,
+    "executed_code_cells": 29,
+    "execution_errors": 0,
+    "png_visualizations": 15
+  },
+  "model_notebooks": {
+    "02_random_forest.ipynb": {
+      "code_cells_syntax_valid": 8,
+      "progress_bar": true,
+      "elapsed_time": true,
+      "shared_validation_dashboard": true,
+      "test_arrays_exposed": false
+    },
+    "03_xgboost.ipynb": {
+      "code_cells_syntax_valid": 9,
+      "progress_bar": true,
+      "elapsed_time": true,
+      "shared_validation_dashboard": true,
+      "test_arrays_exposed": false
+    },
+    "04_neural_network.ipynb": {
+      "code_cells_syntax_valid": 10,
+      "progress_bar": true,
+      "elapsed_time": true,
+      "shared_validation_dashboard": true,
+      "test_arrays_exposed": false
+    }
+  },
+  "overall_status": "pass_for_six_feature_prototype_model_experiments",
+  "full_eight_feature_production_status": "blocked_pending_trusted_soil_data"
+}

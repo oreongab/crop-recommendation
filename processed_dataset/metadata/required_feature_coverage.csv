@@ -1,0 +1,73 @@
+source_file,feature,observed_rows,missing_rows,coverage_rate
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_type,0,3867,0.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,ph,3867,0,1.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,n,3867,0,1.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,p,3867,0,1.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,k,3867,0,1.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_moisture,3867,0,1.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,temperature,0,3867,0.0
+Crop Recommendation using Soil Properties and Weather Prediction.csv,rainfall,0,3867,0.0
+Crop and fertilizer dataset.csv,soil_type,0,4513,0.0
+Crop and fertilizer dataset.csv,ph,4513,0,1.0
+Crop and fertilizer dataset.csv,n,4513,0,1.0
+Crop and fertilizer dataset.csv,p,4513,0,1.0
+Crop and fertilizer dataset.csv,k,4513,0,1.0
+Crop and fertilizer dataset.csv,soil_moisture,0,4513,0.0
+Crop and fertilizer dataset.csv,temperature,4513,0,1.0
+Crop and fertilizer dataset.csv,rainfall,4513,0,1.0
+Crop_Recommendation.csv,soil_type,0,2200,0.0
+Crop_Recommendation.csv,ph,2200,0,1.0
+Crop_Recommendation.csv,n,2200,0,1.0
+Crop_Recommendation.csv,p,2200,0,1.0
+Crop_Recommendation.csv,k,2200,0,1.0
+Crop_Recommendation.csv,soil_moisture,0,2200,0.0
+Crop_Recommendation.csv,temperature,2200,0,1.0
+Crop_Recommendation.csv,rainfall,2200,0,1.0
+crop yield prediction dataset.csv,soil_type,246091,0,1.0
+crop yield prediction dataset.csv,ph,0,246091,0.0
+crop yield prediction dataset.csv,n,246091,0,1.0
+crop yield prediction dataset.csv,p,246091,0,1.0
+crop yield prediction dataset.csv,k,246091,0,1.0
+crop yield prediction dataset.csv,soil_moisture,0,246091,0.0
+crop yield prediction dataset.csv,temperature,246091,0,1.0
+crop yield prediction dataset.csv,rainfall,0,246091,0.0
+crop-yield.csv,soil_type,10000,0,1.0
+crop-yield.csv,ph,10000,0,1.0
+crop-yield.csv,n,10000,0,1.0
+crop-yield.csv,p,10000,0,1.0
+crop-yield.csv,k,10000,0,1.0
+crop-yield.csv,soil_moisture,10000,0,1.0
+crop-yield.csv,temperature,10000,0,1.0
+crop-yield.csv,rainfall,10000,0,1.0
+crop_data.csv,soil_type,0,646,0.0
+crop_data.csv,ph,646,0,1.0
+crop_data.csv,n,646,0,1.0
+crop_data.csv,p,646,0,1.0
+crop_data.csv,k,646,0,1.0
+crop_data.csv,soil_moisture,0,646,0.0
+crop_data.csv,temperature,646,0,1.0
+crop_data.csv,rainfall,646,0,1.0
+crop_yield.csv,soil_type,0,19689,0.0
+crop_yield.csv,ph,19689,0,1.0
+crop_yield.csv,n,19689,0,1.0
+crop_yield.csv,p,19689,0,1.0
+crop_yield.csv,k,19689,0,1.0
+crop_yield.csv,soil_moisture,0,19689,0.0
+crop_yield.csv,temperature,19689,0,1.0
+crop_yield.csv,rainfall,19689,0,1.0
+data_core.csv,soil_type,8000,0,1.0
+data_core.csv,ph,0,8000,0.0
+data_core.csv,n,8000,0,1.0
+data_core.csv,p,8000,0,1.0
+data_core.csv,k,8000,0,1.0
+data_core.csv,soil_moisture,8000,0,1.0
+data_core.csv,temperature,8000,0,1.0
+data_core.csv,rainfall,0,8000,0.0
+original_dataset.csv,soil_type,1000,0,1.0
+original_dataset.csv,ph,1000,0,1.0
+original_dataset.csv,n,1000,0,1.0
+original_dataset.csv,p,1000,0,1.0
+original_dataset.csv,k,1000,0,1.0
+original_dataset.csv,soil_moisture,0,1000,0.0
+original_dataset.csv,temperature,1000,0,1.0
+original_dataset.csv,rainfall,1000,0,1.0

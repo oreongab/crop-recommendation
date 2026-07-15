@@ -1,0 +1,10 @@
+source_file,cleaned_rows,specific_crop_rows,model_fingerprint_duplicates_after_first,model_fingerprint_duplicate_rate,conflicting_input_label_rows,conflicting_input_label_groups,maximum_single_feature_nmi,maximum_nmi_feature,signal_decision,group_split_required,conflicting_labels_require_exclusion_or_resolution,single_feature_leakage_review_required,approved_for_training_after_audit
+crop_data.csv,646,646,12,0.018575851393188854,24,12,0.6200139435051761,k,signal_present_requires_external_validation,True,True,False,False
+Crop and fertilizer dataset.csv,4513,4513,77,0.01706182140483049,14,7,0.3941492860301266,k,possible_synthetic_or_target_encoded_pattern,True,True,False,False
+Crop_Recommendation.csv,2200,2200,0,0.0,0,0,0.52138898757163,k,possible_synthetic_or_target_encoded_pattern,False,False,False,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,3867,3841,3,0.0007757951900698216,5,2,0.13229344277715943,soil_moisture,signal_present_requires_external_validation,True,True,False,False
+crop-yield.csv,10000,10000,0,0.0,0,0,0.002367660495123868,temperature,insufficient_crop_signal,False,False,False,False
+crop_yield.csv,19689,17787,19032,0.9666311138198994,19689,657,0.07565157458678269,ph,insufficient_rows_for_diagnostic,True,True,False,False
+crop yield prediction dataset.csv,246091,226585,235410,0.9565973562625207,238423,3057,0.0024604998849247746,temperature,insufficient_crop_signal,True,True,False,False
+data_core.csv,8000,5843,0,0.0,0,0,0.004687401585083319,soil_moisture,insufficient_crop_signal,False,False,False,False
+original_dataset.csv,1000,1000,0,0.0,0,0,0.7145155085292427,soil_type,possible_synthetic_or_target_encoded_pattern,False,False,False,False

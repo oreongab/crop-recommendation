@@ -1,0 +1,43 @@
+{
+  "dataset_version": "six_feature_prototype_v1",
+  "source_file": "Crop_Recommendation.csv",
+  "features": [
+    "n",
+    "p",
+    "k",
+    "ph",
+    "temperature",
+    "rainfall"
+  ],
+  "target": "crop_label",
+  "random_state": 42,
+  "row_counts": {
+    "train": 1540,
+    "validation": 330,
+    "test": 330
+  },
+  "class_counts_per_split": {
+    "train": 22,
+    "validation": 22,
+    "test": 22
+  },
+  "fingerprint_overlap": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  },
+  "conflicting_label_rows": 0,
+  "missing_feature_values": 0,
+  "full_eight_feature_model": false,
+  "soil_type_used_by_model": false,
+  "soil_moisture_used_by_model": false,
+  "file_sha256": {
+    "train.csv": "0ed96453737a04ba66bdb49bf2528cdf7adc3fdd53a7673e8bed044fca861cd9",
+    "validation.csv": "ae1a8f9a294b50a923f90eab93388c2d58e23949e45bc5b8a6b36f39bfb01d6c",
+    "test.csv": "640fb65e321b52da48a9c3872823061e328f934cf60536e2090adb014f79d651",
+    "all_splits.csv": "e65d702ce0d02e6049985c5dce5f6a0e438b5c96b583f9c9b55743f050122ea4",
+    "split_manifest.csv": "25842853b63373ec72f837758a340a5776d1e1031d1d5d6f499c2db03c3775e6",
+    "class_distribution.csv": "a7420ea0fde6ce69a0b1ccc035cd61d9f5ed018cfabe1ee8715f86712390cf3d",
+    "feature_ranges.csv": "3f6e30530a3abf9856a8fc5d6162a7b65fb2c3a4f747d10ff9d2296808b17945"
+  }
+}

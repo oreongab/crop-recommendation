@@ -1,0 +1,73 @@
+source_file,canonical_feature,original_column,available,transformation,unit_status,semantic_status,approved_for_training
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_type,,False,none,not_applicable,excluded_soil_color_is_not_soil_type,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_moisture,soil_moisture,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,temperature,,False,none,not_applicable,not_available,False
+Crop Recommendation using Soil Properties and Weather Prediction.csv,rainfall,,False,none,not_applicable,not_available,False
+Crop and fertilizer dataset.csv,soil_type,,False,none,not_applicable,excluded_soil_color_is_not_soil_type,False
+Crop and fertilizer dataset.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop and fertilizer dataset.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop and fertilizer dataset.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop and fertilizer dataset.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop and fertilizer dataset.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+Crop and fertilizer dataset.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop and fertilizer dataset.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,soil_type,,False,none,not_applicable,not_available,False
+Crop_Recommendation.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+Crop_Recommendation.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+Crop_Recommendation.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False
+crop yield prediction dataset.csv,soil_type,soil_type,True,syntax_normalization_only,not_applicable,direct_name_match,False
+crop yield prediction dataset.csv,ph,,False,none,not_applicable,not_available,False
+crop yield prediction dataset.csv,n,N,True,numeric_coercion_only,unverified,direct_name_match,False
+crop yield prediction dataset.csv,p,P,True,numeric_coercion_only,unverified,direct_name_match,False
+crop yield prediction dataset.csv,k,K,True,numeric_coercion_only,unverified,direct_name_match,False
+crop yield prediction dataset.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+crop yield prediction dataset.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+crop yield prediction dataset.csv,rainfall,,False,none,not_applicable,excluded_precipitation_not_verified_as_rainfall,False
+crop-yield.csv,soil_type,soil_type,True,syntax_normalization_only,not_applicable,direct_name_match,False
+crop-yield.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,soil_moisture,soil_moisture,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+crop-yield.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,soil_type,,False,none,not_applicable,not_available,False
+crop_data.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+crop_data.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_data.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,soil_type,,False,none,not_applicable,not_available,False
+crop_yield.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+crop_yield.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+crop_yield.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,soil_type,soil_type,True,syntax_normalization_only,not_applicable,direct_name_match,False
+data_core.csv,ph,,False,none,not_applicable,not_available,False
+data_core.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,soil_moisture,soil_moisture,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+data_core.csv,rainfall,,False,none,not_applicable,not_available,False
+original_dataset.csv,soil_type,soil_type,True,syntax_normalization_only,not_applicable,direct_name_match,False
+original_dataset.csv,ph,ph,True,numeric_coercion_only,unverified,direct_name_match,False
+original_dataset.csv,n,n,True,numeric_coercion_only,unverified,direct_name_match,False
+original_dataset.csv,p,p,True,numeric_coercion_only,unverified,direct_name_match,False
+original_dataset.csv,k,k,True,numeric_coercion_only,unverified,direct_name_match,False
+original_dataset.csv,soil_moisture,,False,none,not_applicable,excluded_atmospheric_humidity_is_not_soil_moisture,False
+original_dataset.csv,temperature,temperature,True,numeric_coercion_only,unverified,direct_name_match,False
+original_dataset.csv,rainfall,rainfall,True,numeric_coercion_only,unverified,direct_name_match,False

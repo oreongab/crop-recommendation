@@ -1,0 +1,73 @@
+source_file,canonical_feature,original_column,stored_unit,unit_status,conversion_applied,approved_for_cross_source_merge,evidence_url,review_note
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_type,,not_available,not_available,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Feature is not present in the canonical source mapping.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,ph,ph,ph_scale,verified_from_dataset_description,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Dataset description identifies this field as soil PH.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,n,n,unknown,unverified_no_conversion,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Dataset description confirms the feature domain but does not publish its unit on the data card.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,p,p,unknown,unverified_no_conversion,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Dataset description confirms the feature domain but does not publish its unit on the data card.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,k,k,unknown,unverified_no_conversion,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Dataset description confirms the feature domain but does not publish its unit on the data card.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,soil_moisture,soil_moisture,unknown,unverified_no_conversion,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Dataset description confirms the feature domain but does not publish its unit on the data card.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,temperature,,not_available,not_available,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Feature is not present in the canonical source mapping.
+Crop Recommendation using Soil Properties and Weather Prediction.csv,rainfall,,not_available,not_available,False,False,https://data.mendeley.com/datasets/8v757rr4st/1,Feature is not present in the canonical source mapping.
+Crop and fertilizer dataset.csv,soil_type,,not_available,not_available,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Feature is not present in the canonical source mapping.
+Crop and fertilizer dataset.csv,ph,ph,ph_scale,physical_scale_verified,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,PH is dimensionless and retained without conversion.
+Crop and fertilizer dataset.csv,n,n,rate_unspecified,unverified_no_conversion,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Dataset card calls the field a rate but does not publish a unit.
+Crop and fertilizer dataset.csv,p,p,rate_unspecified,unverified_no_conversion,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Dataset card calls the field a rate but does not publish a unit.
+Crop and fertilizer dataset.csv,k,k,rate_unspecified,unverified_no_conversion,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Dataset card calls the field a rate but does not publish a unit.
+Crop and fertilizer dataset.csv,soil_moisture,,not_available,not_available,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Feature is not present in the canonical source mapping.
+Crop and fertilizer dataset.csv,temperature,temperature,rate_unspecified,unverified_no_conversion,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Dataset card calls the field a rate but does not publish a unit.
+Crop and fertilizer dataset.csv,rainfall,rainfall,rate_unspecified,unverified_no_conversion,False,False,https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra,Dataset card calls the field a rate but does not publish a unit.
+Crop_Recommendation.csv,soil_type,,not_available,not_available,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Feature is not present in the canonical source mapping.
+Crop_Recommendation.csv,ph,ph,ph_scale,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines soil PH.
+Crop_Recommendation.csv,n,n,soil_nutrient_ratio,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines N as nitrogen ratio in soil.
+Crop_Recommendation.csv,p,p,soil_nutrient_ratio,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines P as phosphorus ratio in soil.
+Crop_Recommendation.csv,k,k,soil_nutrient_ratio,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines K as potassium ratio in soil.
+Crop_Recommendation.csv,soil_moisture,,not_available,not_available,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Feature is not present in the canonical source mapping.
+Crop_Recommendation.csv,temperature,temperature,degree_celsius,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines temperature in degree Celsius.
+Crop_Recommendation.csv,rainfall,rainfall,millimeter,verified_from_dataset_card,False,False,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data,Dataset card defines rainfall in millimeter.
+crop yield prediction dataset.csv,soil_type,soil_type,category,semantic_category_verified,False,False,,Text category normalized for case and whitespace only.
+crop yield prediction dataset.csv,ph,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop yield prediction dataset.csv,n,N,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop yield prediction dataset.csv,p,P,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop yield prediction dataset.csv,k,K,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop yield prediction dataset.csv,soil_moisture,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop yield prediction dataset.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop yield prediction dataset.csv,rainfall,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop-yield.csv,soil_type,soil_type,category,semantic_category_verified,False,False,,Text category normalized for case and whitespace only.
+crop-yield.csv,ph,ph,ph_scale,physical_scale_verified,False,False,,PH is dimensionless and retained without conversion.
+crop-yield.csv,n,n,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop-yield.csv,p,p,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop-yield.csv,k,k,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop-yield.csv,soil_moisture,soil_moisture,percent_like_scale,inferred_not_approved,False,False,,"Values resemble percent soil moisture, but no source documentation was found."
+crop-yield.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop-yield.csv,rainfall,rainfall,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_data.csv,soil_type,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop_data.csv,ph,ph,ph_scale,physical_scale_verified,False,False,,PH is dimensionless and retained without conversion.
+crop_data.csv,n,n,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_data.csv,p,p,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_data.csv,k,k,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_data.csv,soil_moisture,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop_data.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_data.csv,rainfall,rainfall,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_yield.csv,soil_type,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop_yield.csv,ph,ph,ph_scale,physical_scale_verified,False,False,,PH is dimensionless and retained without conversion.
+crop_yield.csv,n,n,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_yield.csv,p,p,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_yield.csv,k,k,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_yield.csv,soil_moisture,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+crop_yield.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+crop_yield.csv,rainfall,rainfall,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+data_core.csv,soil_type,soil_type,category,semantic_category_verified,False,False,,Text category normalized for case and whitespace only.
+data_core.csv,ph,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+data_core.csv,n,n,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+data_core.csv,p,p,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+data_core.csv,k,k,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+data_core.csv,soil_moisture,soil_moisture,percent_like_scale,inferred_not_approved,False,False,,"Values resemble percent soil moisture, but no source documentation was found."
+data_core.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+data_core.csv,rainfall,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+original_dataset.csv,soil_type,soil_type,category,semantic_category_verified,False,False,,Text category normalized for case and whitespace only.
+original_dataset.csv,ph,ph,ph_scale,physical_scale_verified,False,False,,PH is dimensionless and retained without conversion.
+original_dataset.csv,n,n,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+original_dataset.csv,p,p,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+original_dataset.csv,k,k,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+original_dataset.csv,soil_moisture,,not_available,not_available,False,False,,Feature is not present in the canonical source mapping.
+original_dataset.csv,temperature,temperature,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.
+original_dataset.csv,rainfall,rainfall,unknown,unverified_no_conversion,False,False,,The local file does not provide a trustworthy unit definition.

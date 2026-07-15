@@ -1,0 +1,354 @@
+source_file,crop_label_raw,crop_label_normalized,crop_label,crop_mapping_rule,crop_mapping_status,is_specific_crop_label,row_count
+Crop Recommendation using Soil Properties and Weather Prediction.csv,barley,barley,barley,identity,approved,True,503
+Crop Recommendation using Soil Properties and Weather Prediction.csv,bean,bean,bean,identity,approved,True,253
+Crop Recommendation using Soil Properties and Weather Prediction.csv,dagussa,dagussa,dagussa,identity,approved,True,71
+Crop Recommendation using Soil Properties and Weather Prediction.csv,fallow,fallow,fallow,non_specific_or_ambiguous_target,excluded,False,26
+Crop Recommendation using Soil Properties and Weather Prediction.csv,maize,maize,maize,identity,approved,True,732
+Crop Recommendation using Soil Properties and Weather Prediction.csv,niger_seed,niger seed,niger seed,identity,approved,True,64
+Crop Recommendation using Soil Properties and Weather Prediction.csv,pea,pea,pea,identity,approved,True,94
+Crop Recommendation using Soil Properties and Weather Prediction.csv,potato,potato,potato,identity,approved,True,48
+Crop Recommendation using Soil Properties and Weather Prediction.csv,red_pepper,red pepper,red pepper,identity,approved,True,29
+Crop Recommendation using Soil Properties and Weather Prediction.csv,sorghum,sorghum,sorghum,identity,approved,True,72
+Crop Recommendation using Soil Properties and Weather Prediction.csv,teff,teff,teff,identity,approved,True,1260
+Crop Recommendation using Soil Properties and Weather Prediction.csv,wheat,wheat,wheat,identity,approved,True,715
+Crop and fertilizer dataset.csv,cotton,cotton,cotton,identity,approved,True,650
+Crop and fertilizer dataset.csv,ginger,ginger,ginger,identity,approved,True,125
+Crop and fertilizer dataset.csv,gram,gram,chickpea,context_specific_common_name,approved,True,78
+Crop and fertilizer dataset.csv,grapes,grapes,grapes,identity,approved,True,125
+Crop and fertilizer dataset.csv,groundnut,groundnut,groundnut,identity,approved,True,177
+Crop and fertilizer dataset.csv,jowar,jowar,sorghum,common_name_synonym,approved,True,394
+Crop and fertilizer dataset.csv,maize,maize,maize,identity,approved,True,350
+Crop and fertilizer dataset.csv,masoor,masoor,lentil,common_name_synonym,approved,True,12
+Crop and fertilizer dataset.csv,moong,moong,mung bean,common_name_synonym,approved,True,99
+Crop and fertilizer dataset.csv,rice,rice,rice,identity,approved,True,309
+Crop and fertilizer dataset.csv,soybean,soybean,soybean,identity,approved,True,45
+Crop and fertilizer dataset.csv,sugarcane,sugarcane,sugarcane,identity,approved,True,1010
+Crop and fertilizer dataset.csv,tur,tur,pigeon pea,common_name_synonym,approved,True,126
+Crop and fertilizer dataset.csv,turmeric,turmeric,turmeric,identity,approved,True,55
+Crop and fertilizer dataset.csv,urad,urad,black gram,common_name_synonym,approved,True,99
+Crop and fertilizer dataset.csv,wheat,wheat,wheat,identity,approved,True,859
+Crop_Recommendation.csv,apple,apple,apple,identity,approved,True,100
+Crop_Recommendation.csv,banana,banana,banana,identity,approved,True,100
+Crop_Recommendation.csv,blackgram,blackgram,black gram,spacing_variant,approved,True,100
+Crop_Recommendation.csv,chickpea,chickpea,chickpea,identity,approved,True,100
+Crop_Recommendation.csv,coconut,coconut,coconut,identity,approved,True,100
+Crop_Recommendation.csv,coffee,coffee,coffee,identity,approved,True,100
+Crop_Recommendation.csv,cotton,cotton,cotton,identity,approved,True,100
+Crop_Recommendation.csv,grapes,grapes,grapes,identity,approved,True,100
+Crop_Recommendation.csv,jute,jute,jute,identity,approved,True,100
+Crop_Recommendation.csv,kidneybeans,kidneybeans,kidney bean,spacing_variant,approved,True,100
+Crop_Recommendation.csv,lentil,lentil,lentil,identity,approved,True,100
+Crop_Recommendation.csv,maize,maize,maize,identity,approved,True,100
+Crop_Recommendation.csv,mango,mango,mango,identity,approved,True,100
+Crop_Recommendation.csv,mothbeans,mothbeans,moth bean,spacing_variant,approved,True,100
+Crop_Recommendation.csv,mungbean,mungbean,mung bean,spacing_variant,approved,True,100
+Crop_Recommendation.csv,muskmelon,muskmelon,muskmelon,identity,approved,True,100
+Crop_Recommendation.csv,orange,orange,orange,identity,approved,True,100
+Crop_Recommendation.csv,papaya,papaya,papaya,identity,approved,True,100
+Crop_Recommendation.csv,pigeonpeas,pigeonpeas,pigeon pea,spacing_variant,approved,True,100
+Crop_Recommendation.csv,pomegranate,pomegranate,pomegranate,identity,approved,True,100
+Crop_Recommendation.csv,rice,rice,rice,identity,approved,True,100
+Crop_Recommendation.csv,watermelon,watermelon,watermelon,identity,approved,True,100
+crop yield prediction dataset.csv,Apple,apple,apple,identity,approved,True,4
+crop yield prediction dataset.csv,Arcanut (Processed),arcanut (processed),arcanut (processed),non_specific_or_ambiguous_target,excluded,False,20
+crop yield prediction dataset.csv,Arecanut,arecanut,arecanut,identity,approved,True,1577
+crop yield prediction dataset.csv,Arhar/Tur,arhar/tur,pigeon pea,common_name_synonym,approved,True,7578
+crop yield prediction dataset.csv,Ash Gourd,ash gourd,ash gourd,identity,approved,True,44
+crop yield prediction dataset.csv,Atcanut (Raw),atcanut (raw),atcanut (raw),non_specific_or_ambiguous_target,excluded,False,20
+crop yield prediction dataset.csv,Bajra,bajra,pearl millet,common_name_synonym,approved,True,5427
+crop yield prediction dataset.csv,Banana,banana,banana,identity,approved,True,3209
+crop yield prediction dataset.csv,Barley,barley,barley,identity,approved,True,4199
+crop yield prediction dataset.csv,Bean,bean,bean,identity,approved,True,20
+crop yield prediction dataset.csv,Beans & Mutter(Vegetable),beans & mutter(vegetable),beans & mutter(vegetable),non_specific_or_ambiguous_target,excluded,False,167
+crop yield prediction dataset.csv,Beet Root,beet root,beet root,identity,approved,True,16
+crop yield prediction dataset.csv,Ber,ber,ber,identity,approved,True,11
+crop yield prediction dataset.csv,Bhindi,bhindi,okra,common_name_synonym,approved,True,236
+crop yield prediction dataset.csv,Bitter Gourd,bitter gourd,bitter gourd,identity,approved,True,92
+crop yield prediction dataset.csv,Black pepper,black pepper,black pepper,identity,approved,True,934
+crop yield prediction dataset.csv,Blackgram,blackgram,black gram,spacing_variant,approved,True,118
+crop yield prediction dataset.csv,Bottle Gourd,bottle gourd,bottle gourd,identity,approved,True,84
+crop yield prediction dataset.csv,Brinjal,brinjal,brinjal,identity,approved,True,386
+crop yield prediction dataset.csv,Cabbage,cabbage,cabbage,identity,approved,True,205
+crop yield prediction dataset.csv,Cardamom,cardamom,cardamom,identity,approved,True,427
+crop yield prediction dataset.csv,Carrot,carrot,carrot,identity,approved,True,28
+crop yield prediction dataset.csv,Cashewnut,cashewnut,cashewnut,identity,approved,True,1081
+crop yield prediction dataset.csv,Cashewnut Processed,cashewnut processed,cashewnut processed,non_specific_or_ambiguous_target,excluded,False,21
+crop yield prediction dataset.csv,Cashewnut Raw,cashewnut raw,cashewnut raw,non_specific_or_ambiguous_target,excluded,False,35
+crop yield prediction dataset.csv,Castor seed,castor seed,castor seed,identity,approved,True,3376
+crop yield prediction dataset.csv,Cauliflower,cauliflower,cauliflower,identity,approved,True,122
+crop yield prediction dataset.csv,Citrus Fruit,citrus fruit,citrus fruit,identity,approved,True,301
+crop yield prediction dataset.csv,Coconut ,coconut,coconut,identity,approved,True,1985
+crop yield prediction dataset.csv,Coffee,coffee,coffee,identity,approved,True,6
+crop yield prediction dataset.csv,Colocosia,colocosia,colocosia,identity,approved,True,11
+crop yield prediction dataset.csv,Cond-spcs other,cond-spcs other,cond-spcs other,non_specific_or_ambiguous_target,excluded,False,18
+crop yield prediction dataset.csv,Coriander,coriander,coriander,identity,approved,True,3369
+crop yield prediction dataset.csv,Cotton(lint),cotton(lint),cotton,harvest_form_parent_crop,approved,True,4518
+crop yield prediction dataset.csv,Cowpea(Lobia),cowpea(lobia),cowpea,parenthetical_synonym,approved,True,587
+crop yield prediction dataset.csv,Cucumber,cucumber,cucumber,identity,approved,True,93
+crop yield prediction dataset.csv,Drum Stick,drum stick,moringa,common_name_synonym,approved,True,112
+crop yield prediction dataset.csv,Dry chillies,dry chillies,dry chillies,identity,approved,True,6489
+crop yield prediction dataset.csv,Dry ginger,dry ginger,dry ginger,identity,approved,True,3008
+crop yield prediction dataset.csv,Garlic,garlic,garlic,identity,approved,True,3289
+crop yield prediction dataset.csv,Ginger,ginger,ginger,identity,approved,True,241
+crop yield prediction dataset.csv,Gram,gram,chickpea,context_specific_common_name,approved,True,7361
+crop yield prediction dataset.csv,Grapes,grapes,grapes,identity,approved,True,129
+crop yield prediction dataset.csv,Groundnut,groundnut,groundnut,identity,approved,True,8834
+crop yield prediction dataset.csv,Guar seed,guar seed,guar seed,identity,approved,True,1295
+crop yield prediction dataset.csv,Horse-gram,horse-gram,horse gram,punctuation_variant,approved,True,3902
+crop yield prediction dataset.csv,Jack Fruit,jack fruit,jackfruit,spacing_variant,approved,True,112
+crop yield prediction dataset.csv,Jobster,jobster,jobster,non_specific_or_ambiguous_target,excluded,False,9
+crop yield prediction dataset.csv,Jowar,jowar,sorghum,common_name_synonym,approved,True,7065
+crop yield prediction dataset.csv,Jute,jute,jute,identity,approved,True,1453
+crop yield prediction dataset.csv,Jute & mesta,jute & mesta,jute & mesta,non_specific_or_ambiguous_target,excluded,False,20
+crop yield prediction dataset.csv,Kapas,kapas,cotton,common_name_synonym,approved,True,12
+crop yield prediction dataset.csv,Khesari,khesari,khesari,identity,approved,True,1360
+crop yield prediction dataset.csv,Korra,korra,korra,identity,approved,True,126
+crop yield prediction dataset.csv,Lab-Lab,lab-lab,lab-lab,identity,approved,True,48
+crop yield prediction dataset.csv,Lemon,lemon,lemon,identity,approved,True,39
+crop yield prediction dataset.csv,Lentil,lentil,lentil,identity,approved,True,31
+crop yield prediction dataset.csv,Linseed,linseed,linseed,identity,approved,True,4405
+crop yield prediction dataset.csv,Litchi,litchi,litchi,identity,approved,True,6
+crop yield prediction dataset.csv,Maize,maize,maize,identity,approved,True,13947
+crop yield prediction dataset.csv,Mango,mango,mango,identity,approved,True,449
+crop yield prediction dataset.csv,Masoor,masoor,lentil,common_name_synonym,approved,True,4224
+crop yield prediction dataset.csv,Mesta,mesta,mesta,identity,approved,True,1787
+crop yield prediction dataset.csv,Moong(Green Gram),moong(green gram),mung bean,common_name_synonym,approved,True,10318
+crop yield prediction dataset.csv,Moth,moth,moth,identity,approved,True,878
+crop yield prediction dataset.csv,Niger seed,niger seed,niger seed,identity,approved,True,2070
+crop yield prediction dataset.csv,Oilseeds total,oilseeds total,oilseeds total,non_specific_or_ambiguous_target,excluded,False,426
+crop yield prediction dataset.csv,Onion,onion,onion,identity,approved,True,7012
+crop yield prediction dataset.csv,Orange,orange,orange,identity,approved,True,271
+crop yield prediction dataset.csv,Other  Rabi pulses,other rabi pulses,other rabi pulses,non_specific_or_ambiguous_target,excluded,False,3180
+crop yield prediction dataset.csv,Other Cereals & Millets,other cereals & millets,other cereals & millets,non_specific_or_ambiguous_target,excluded,False,628
+crop yield prediction dataset.csv,Other Citrus Fruit,other citrus fruit,other citrus fruit,non_specific_or_ambiguous_target,excluded,False,69
+crop yield prediction dataset.csv,Other Dry Fruit,other dry fruit,other dry fruit,non_specific_or_ambiguous_target,excluded,False,1
+crop yield prediction dataset.csv,Other Fresh Fruits,other fresh fruits,other fresh fruits,non_specific_or_ambiguous_target,excluded,False,410
+crop yield prediction dataset.csv,Other Kharif pulses,other kharif pulses,other kharif pulses,non_specific_or_ambiguous_target,excluded,False,3659
+crop yield prediction dataset.csv,Other Vegetables,other vegetables,other vegetables,non_specific_or_ambiguous_target,excluded,False,381
+crop yield prediction dataset.csv,Paddy,paddy,rice,common_name_synonym,approved,True,479
+crop yield prediction dataset.csv,Papaya,papaya,papaya,identity,approved,True,483
+crop yield prediction dataset.csv,Peach,peach,peach,identity,approved,True,4
+crop yield prediction dataset.csv,Pear,pear,pear,identity,approved,True,6
+crop yield prediction dataset.csv,Peas  (vegetable),peas (vegetable),peas (vegetable),identity,approved,True,11
+crop yield prediction dataset.csv,Peas & beans (Pulses),peas & beans (pulses),peas & beans (pulses),non_specific_or_ambiguous_target,excluded,False,4524
+crop yield prediction dataset.csv,Perilla,perilla,perilla,identity,approved,True,9
+crop yield prediction dataset.csv,Pineapple,pineapple,pineapple,identity,approved,True,247
+crop yield prediction dataset.csv,Plums,plums,plums,identity,approved,True,6
+crop yield prediction dataset.csv,Pome Fruit,pome fruit,pome fruit,identity,approved,True,297
+crop yield prediction dataset.csv,Pome Granet,pome granet,pomegranate,spelling_correction,approved,True,66
+crop yield prediction dataset.csv,Potato,potato,potato,identity,approved,True,6931
+crop yield prediction dataset.csv,Pulses total,pulses total,pulses total,non_specific_or_ambiguous_target,excluded,False,266
+crop yield prediction dataset.csv,Pump Kin,pump kin,pumpkin,spacing_correction,approved,True,93
+crop yield prediction dataset.csv,Ragi,ragi,finger millet,common_name_synonym,approved,True,4145
+crop yield prediction dataset.csv,Rajmash Kholar,rajmash kholar,rajmash kholar,identity,approved,True,18
+crop yield prediction dataset.csv,Rapeseed &Mustard,rapeseed &mustard,rapeseed &mustard,identity,approved,True,7592
+crop yield prediction dataset.csv,Redish,redish,redish,non_specific_or_ambiguous_target,excluded,False,61
+crop yield prediction dataset.csv,Ribed Guard,ribed guard,ribed guard,non_specific_or_ambiguous_target,excluded,False,38
+crop yield prediction dataset.csv,Rice,rice,rice,identity,approved,True,15104
+crop yield prediction dataset.csv,Ricebean (nagadal),ricebean (nagadal),ricebean (nagadal),identity,approved,True,10
+crop yield prediction dataset.csv,Rubber,rubber,rubber,identity,approved,True,29
+crop yield prediction dataset.csv,Safflower,safflower,safflower,identity,approved,True,1335
+crop yield prediction dataset.csv,Samai,samai,samai,identity,approved,True,87
+crop yield prediction dataset.csv,Sannhamp,sannhamp,sannhamp,identity,approved,True,2395
+crop yield prediction dataset.csv,Sapota,sapota,sapota,identity,approved,True,39
+crop yield prediction dataset.csv,Sesamum,sesamum,sesame,common_name_synonym,approved,True,9046
+crop yield prediction dataset.csv,Small millets,small millets,small millets,non_specific_or_ambiguous_target,excluded,False,4652
+crop yield prediction dataset.csv,Snak Guard,snak guard,snak guard,identity,approved,True,82
+crop yield prediction dataset.csv,Soyabean,soyabean,soybean,spelling_variant,approved,True,3212
+crop yield prediction dataset.csv,Sugarcane,sugarcane,sugarcane,identity,approved,True,7921
+crop yield prediction dataset.csv,Sunflower,sunflower,sunflower,identity,approved,True,5571
+crop yield prediction dataset.csv,Sweet potato,sweet potato,sweet potato,identity,approved,True,4198
+crop yield prediction dataset.csv,Tapioca,tapioca,tapioca,identity,approved,True,1586
+crop yield prediction dataset.csv,Tea,tea,tea,identity,approved,True,62
+crop yield prediction dataset.csv,Tobacco,tobacco,tobacco,identity,approved,True,2698
+crop yield prediction dataset.csv,Tomato,tomato,tomato,identity,approved,True,368
+crop yield prediction dataset.csv,Total foodgrain,total foodgrain,total foodgrain,non_specific_or_ambiguous_target,excluded,False,188
+crop yield prediction dataset.csv,Turmeric,turmeric,turmeric,identity,approved,True,4202
+crop yield prediction dataset.csv,Turnip,turnip,turnip,identity,approved,True,8
+crop yield prediction dataset.csv,Urad,urad,black gram,common_name_synonym,approved,True,9850
+crop yield prediction dataset.csv,Varagu,varagu,varagu,identity,approved,True,58
+crop yield prediction dataset.csv,Water Melon,water melon,watermelon,spacing_variant,approved,True,85
+crop yield prediction dataset.csv,Wheat,wheat,wheat,identity,approved,True,7899
+crop yield prediction dataset.csv,Yam,yam,yam,identity,approved,True,36
+crop yield prediction dataset.csv,other fibres,other fibres,other fibres,non_specific_or_ambiguous_target,excluded,False,10
+crop yield prediction dataset.csv,other misc. pulses,other misc. pulses,other misc. pulses,non_specific_or_ambiguous_target,excluded,False,70
+crop yield prediction dataset.csv,other oilseeds,other oilseeds,other oilseeds,non_specific_or_ambiguous_target,excluded,False,633
+crop-yield.csv,cotton,cotton,cotton,identity,approved,True,1666
+crop-yield.csv,maize,maize,maize,identity,approved,True,1658
+crop-yield.csv,potato,potato,potato,identity,approved,True,1670
+crop-yield.csv,rice,rice,rice,identity,approved,True,1702
+crop-yield.csv,sugarcane,sugarcane,sugarcane,identity,approved,True,1633
+crop-yield.csv,wheat,wheat,wheat,identity,approved,True,1671
+crop_data.csv,aloe_vera,aloe vera,aloe vera,identity,approved,True,4
+crop_data.csv,amaranth_(rajgira),amaranth (rajgira),amaranth (rajgira),identity,approved,True,5
+crop_data.csv,ashwagandha,ashwagandha,ashwagandha,identity,approved,True,4
+crop_data.csv,asparagus,asparagus,asparagus,identity,approved,True,5
+crop_data.csv,avocado,avocado,avocado,identity,approved,True,5
+crop_data.csv,bamboo,bamboo,bamboo,identity,approved,True,4
+crop_data.csv,banana,banana,banana,identity,approved,True,7
+crop_data.csv,barley,barley,barley,identity,approved,True,5
+crop_data.csv,barnyard_millet,barnyard millet,barnyard millet,identity,approved,True,5
+crop_data.csv,bittergourd,bittergourd,bitter gourd,spacing_variant,approved,True,5
+crop_data.csv,blackgram,blackgram,black gram,spacing_variant,approved,True,7
+crop_data.csv,blackpepper,blackpepper,black pepper,spacing_variant,approved,True,8
+crop_data.csv,blueberry,blueberry,blueberry,identity,approved,True,5
+crop_data.csv,bottlegourd,bottlegourd,bottle gourd,spacing_variant,approved,True,7
+crop_data.csv,brinjal,brinjal,brinjal,identity,approved,True,9
+crop_data.csv,broccoli,broccoli,broccoli,identity,approved,True,5
+crop_data.csv,brussels_sprouts,brussels sprouts,brussels sprouts,identity,approved,True,5
+crop_data.csv,buckwheat,buckwheat,buckwheat,identity,approved,True,5
+crop_data.csv,cabbage,cabbage,cabbage,identity,approved,True,9
+crop_data.csv,capsicum_(colored_bell_peppers),capsicum (colored bell peppers),capsicum (colored bell peppers),identity,approved,True,5
+crop_data.csv,cardamom,cardamom,cardamom,identity,approved,True,10
+crop_data.csv,castor,castor,castor,identity,approved,True,4
+crop_data.csv,cauliflower,cauliflower,cauliflower,identity,approved,True,8
+crop_data.csv,celery,celery,celery,identity,approved,True,5
+crop_data.csv,cherry_tomatoes,cherry tomatoes,cherry tomatoes,identity,approved,True,5
+crop_data.csv,chia_seeds,chia seeds,chia seeds,identity,approved,True,5
+crop_data.csv,coriander,coriander,coriander,identity,approved,True,10
+crop_data.csv,cotton,cotton,cotton,identity,approved,True,10
+crop_data.csv,cucumber,cucumber,cucumber,identity,approved,True,8
+crop_data.csv,dragon_fruit,dragon fruit,dragon fruit,identity,approved,True,10
+crop_data.csv,drumstick,drumstick,moringa,common_name_synonym,approved,True,7
+crop_data.csv,fig_(anjeer),fig (anjeer),fig (anjeer),identity,approved,True,5
+crop_data.csv,finger_millet_(ragi),finger millet (ragi),finger millet,parenthetical_synonym,approved,True,5
+crop_data.csv,flaxseed,flaxseed,flaxseed,identity,approved,True,5
+crop_data.csv,foxtail_millet,foxtail millet,foxtail millet,identity,approved,True,5
+crop_data.csv,garlic,garlic,garlic,identity,approved,True,10
+crop_data.csv,giloy,giloy,giloy,identity,approved,True,4
+crop_data.csv,ginger,ginger,ginger,identity,approved,True,5
+crop_data.csv,gram,gram,chickpea,context_specific_common_name,approved,True,5
+crop_data.csv,grapes,grapes,grapes,identity,approved,True,10
+crop_data.csv,groundnut,groundnut,groundnut,identity,approved,True,5
+crop_data.csv,guava,guava,guava,identity,approved,True,5
+crop_data.csv,hemp,hemp,hemp,identity,approved,True,4
+crop_data.csv,horsegram,horsegram,horse gram,spacing_variant,approved,True,8
+crop_data.csv,iceberg_lettuce,iceberg lettuce,iceberg lettuce,identity,approved,True,5
+crop_data.csv,jackfruit,jackfruit,jackfruit,identity,approved,True,5
+crop_data.csv,jatropha,jatropha,jatropha,identity,approved,True,4
+crop_data.csv,jowar,jowar,sorghum,common_name_synonym,approved,True,10
+crop_data.csv,jute,jute,jute,identity,approved,True,10
+crop_data.csv,kale,kale,kale,identity,approved,True,5
+crop_data.csv,kiwi,kiwi,kiwi,identity,approved,True,5
+crop_data.csv,ladyfinger,ladyfinger,okra,common_name_synonym,approved,True,9
+crop_data.csv,lavender,lavender,lavender,identity,approved,True,4
+crop_data.csv,lemongrass,lemongrass,lemongrass,identity,approved,True,4
+crop_data.csv,maize,maize,maize,identity,approved,True,9
+crop_data.csv,mango,mango,mango,identity,approved,True,9
+crop_data.csv,moong,moong,mung bean,common_name_synonym,approved,True,10
+crop_data.csv,moringa,moringa,moringa,identity,approved,True,5
+crop_data.csv,mustard,mustard,mustard,identity,approved,True,4
+crop_data.csv,onion,onion,onion,identity,approved,True,10
+crop_data.csv,orange,orange,orange,identity,approved,True,7
+crop_data.csv,papaya,papaya,papaya,identity,approved,True,15
+crop_data.csv,parsley,parsley,parsley,identity,approved,True,5
+crop_data.csv,passion_fruit,passion fruit,passion fruit,identity,approved,True,5
+crop_data.csv,pearl_millet_(bajra),pearl millet (bajra),pearl millet,parenthetical_synonym,approved,True,5
+crop_data.csv,pineapple,pineapple,pineapple,identity,approved,True,9
+crop_data.csv,pomegranate_(bhagwa_variety),pomegranate (bhagwa variety),pomegranate,variety_parent_crop,approved,True,5
+crop_data.csv,pomegranates,pomegranates,pomegranate,plural_variant,approved,True,10
+crop_data.csv,potato,potato,potato,identity,approved,True,10
+crop_data.csv,pumpkin,pumpkin,pumpkin,identity,approved,True,7
+crop_data.csv,quinoa,quinoa,quinoa,identity,approved,True,5
+crop_data.csv,radish,radish,radish,identity,approved,True,8
+crop_data.csv,ragi,ragi,finger millet,common_name_synonym,approved,True,10
+crop_data.csv,rapeseed,rapeseed,rapeseed,identity,approved,True,9
+crop_data.csv,rice,rice,rice,identity,approved,True,10
+crop_data.csv,rosemary,rosemary,rosemary,identity,approved,True,4
+crop_data.csv,saffron_(kesar),saffron (kesar),saffron (kesar),identity,approved,True,10
+crop_data.csv,sesame,sesame,sesame,identity,approved,True,4
+crop_data.csv,shatavari,shatavari,shatavari,identity,approved,True,4
+crop_data.csv,sorghum_(jowar),sorghum (jowar),sorghum,parenthetical_synonym,approved,True,5
+crop_data.csv,soyabean,soyabean,soybean,spelling_variant,approved,True,10
+crop_data.csv,soybean,soybean,soybean,identity,approved,True,4
+crop_data.csv,stevia,stevia,stevia,identity,approved,True,5
+crop_data.csv,strawberry,strawberry,strawberry,identity,approved,True,5
+crop_data.csv,sugarcane,sugarcane,sugarcane,identity,approved,True,10
+crop_data.csv,sunflower,sunflower,sunflower,identity,approved,True,14
+crop_data.csv,sweet_corn,sweet corn,sweet corn,identity,approved,True,4
+crop_data.csv,sweetpotato,sweetpotato,sweet potato,spacing_variant,approved,True,10
+crop_data.csv,teff,teff,teff,identity,approved,True,5
+crop_data.csv,tomato,tomato,tomato,identity,approved,True,9
+crop_data.csv,tulsi,tulsi,tulsi,identity,approved,True,4
+crop_data.csv,tur,tur,pigeon pea,common_name_synonym,approved,True,5
+crop_data.csv,turmeric,turmeric,turmeric,identity,approved,True,10
+crop_data.csv,urad,urad,black gram,common_name_synonym,approved,True,5
+crop_data.csv,vetiver,vetiver,vetiver,identity,approved,True,4
+crop_data.csv,wheat,wheat,wheat,identity,approved,True,10
+crop_data.csv,zucchini_(green_&_yellow),zucchini (green & yellow),zucchini (green & yellow),identity,approved,True,5
+crop_yield.csv,arecanut,arecanut,arecanut,identity,approved,True,162
+crop_yield.csv,arhar/tur,arhar/tur,pigeon pea,common_name_synonym,approved,True,508
+crop_yield.csv,bajra,bajra,pearl millet,common_name_synonym,approved,True,524
+crop_yield.csv,banana,banana,banana,identity,approved,True,245
+crop_yield.csv,barley,barley,barley,identity,approved,True,297
+crop_yield.csv,black_pepper,black pepper,black pepper,identity,approved,True,126
+crop_yield.csv,cardamom,cardamom,cardamom,identity,approved,True,74
+crop_yield.csv,cashewnut,cashewnut,cashewnut,identity,approved,True,134
+crop_yield.csv,castor_seed,castor seed,castor seed,identity,approved,True,300
+crop_yield.csv,coconut,coconut,coconut,identity,approved,True,172
+crop_yield.csv,coriander,coriander,coriander,identity,approved,True,199
+crop_yield.csv,cotton(lint),cotton(lint),cotton,harvest_form_parent_crop,approved,True,476
+crop_yield.csv,cowpea(lobia),cowpea(lobia),cowpea,parenthetical_synonym,approved,True,134
+crop_yield.csv,dry_chillies,dry chillies,dry chillies,identity,approved,True,419
+crop_yield.csv,garlic,garlic,garlic,identity,approved,True,250
+crop_yield.csv,ginger,ginger,ginger,identity,approved,True,323
+crop_yield.csv,gram,gram,chickpea,context_specific_common_name,approved,True,490
+crop_yield.csv,groundnut,groundnut,groundnut,identity,approved,True,725
+crop_yield.csv,guar_seed,guar seed,guar seed,identity,approved,True,63
+crop_yield.csv,horse-gram,horse-gram,horse gram,punctuation_variant,approved,True,371
+crop_yield.csv,jowar,jowar,sorghum,common_name_synonym,approved,True,513
+crop_yield.csv,jute,jute,jute,identity,approved,True,181
+crop_yield.csv,khesari,khesari,khesari,identity,approved,True,75
+crop_yield.csv,linseed,linseed,linseed,identity,approved,True,308
+crop_yield.csv,maize,maize,maize,identity,approved,True,975
+crop_yield.csv,masoor,masoor,lentil,common_name_synonym,approved,True,324
+crop_yield.csv,mesta,mesta,mesta,identity,approved,True,210
+crop_yield.csv,moong(green_gram),moong(green gram),mung bean,common_name_synonym,approved,True,740
+crop_yield.csv,moth,moth,moth,identity,approved,True,110
+crop_yield.csv,niger_seed,niger seed,niger seed,identity,approved,True,192
+crop_yield.csv,oilseeds_total,oilseeds total,oilseeds total,non_specific_or_ambiguous_target,excluded,False,29
+crop_yield.csv,onion,onion,onion,identity,approved,True,454
+crop_yield.csv,other__rabi_pulses,other rabi pulses,other rabi pulses,non_specific_or_ambiguous_target,excluded,False,355
+crop_yield.csv,other_cereals,other cereals,other cereals,non_specific_or_ambiguous_target,excluded,False,146
+crop_yield.csv,other_kharif_pulses,other kharif pulses,other kharif pulses,non_specific_or_ambiguous_target,excluded,False,382
+crop_yield.csv,other_oilseeds,other oilseeds,other oilseeds,non_specific_or_ambiguous_target,excluded,False,126
+crop_yield.csv,other_summer_pulses,other summer pulses,other summer pulses,non_specific_or_ambiguous_target,excluded,False,10
+crop_yield.csv,peas_&_beans_(pulses),peas & beans (pulses),peas & beans (pulses),non_specific_or_ambiguous_target,excluded,False,369
+crop_yield.csv,potato,potato,potato,identity,approved,True,628
+crop_yield.csv,ragi,ragi,finger millet,common_name_synonym,approved,True,498
+crop_yield.csv,rapeseed_&mustard,rapeseed &mustard,rapeseed &mustard,identity,approved,True,528
+crop_yield.csv,rice,rice,rice,identity,approved,True,1197
+crop_yield.csv,safflower,safflower,safflower,identity,approved,True,169
+crop_yield.csv,sannhamp,sannhamp,sannhamp,identity,approved,True,160
+crop_yield.csv,sesamum,sesamum,sesame,common_name_synonym,approved,True,685
+crop_yield.csv,small_millets,small millets,small millets,non_specific_or_ambiguous_target,excluded,False,485
+crop_yield.csv,soyabean,soyabean,soybean,spelling_variant,approved,True,349
+crop_yield.csv,sugarcane,sugarcane,sugarcane,identity,approved,True,605
+crop_yield.csv,sunflower,sunflower,sunflower,identity,approved,True,441
+crop_yield.csv,sweet_potato,sweet potato,sweet potato,identity,approved,True,273
+crop_yield.csv,tapioca,tapioca,tapioca,identity,approved,True,201
+crop_yield.csv,tobacco,tobacco,tobacco,identity,approved,True,364
+crop_yield.csv,turmeric,turmeric,turmeric,identity,approved,True,337
+crop_yield.csv,urad,urad,black gram,common_name_synonym,approved,True,733
+crop_yield.csv,wheat,wheat,wheat,identity,approved,True,545
+data_core.csv,barley,barley,barley,identity,approved,True,703
+data_core.csv,cotton,cotton,cotton,identity,approved,True,722
+data_core.csv,ground_nuts,ground nuts,groundnut,spacing_variant,approved,True,732
+data_core.csv,maize,maize,maize,identity,approved,True,753
+data_core.csv,millets,millets,millets,non_specific_or_ambiguous_target,excluded,False,718
+data_core.csv,oil_seeds,oil seeds,oil seeds,non_specific_or_ambiguous_target,excluded,False,711
+data_core.csv,paddy,paddy,rice,common_name_synonym,approved,True,706
+data_core.csv,pulses,pulses,pulses,non_specific_or_ambiguous_target,excluded,False,728
+data_core.csv,sugarcane,sugarcane,sugarcane,identity,approved,True,763
+data_core.csv,tobacco,tobacco,tobacco,identity,approved,True,717
+data_core.csv,wheat,wheat,wheat,identity,approved,True,747
+original_dataset.csv,beans,beans,beans,identity,approved,True,100
+original_dataset.csv,cassava,cassava,cassava,identity,approved,True,100
+original_dataset.csv,guinea_corn,guinea corn,sorghum,common_name_synonym,approved,True,100
+original_dataset.csv,maize,maize,maize,identity,approved,True,100
+original_dataset.csv,orange,orange,orange,identity,approved,True,100
+original_dataset.csv,pepper,pepper,pepper,identity,approved,True,100
+original_dataset.csv,rice,rice,rice,identity,approved,True,100
+original_dataset.csv,soybean,soybean,soybean,identity,approved,True,100
+original_dataset.csv,tomatoes,tomatoes,tomato,plural_variant,approved,True,100
+original_dataset.csv,yam,yam,yam,identity,approved,True,100

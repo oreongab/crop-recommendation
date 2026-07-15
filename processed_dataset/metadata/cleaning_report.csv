@@ -1,0 +1,10 @@
+source_file,rows,raw_duplicate_rows_after_first,cleaned_rows,non_specific_crop_rows,physical_range_error_rows,cleaned_conflicting_feature_label_rows,cleaned_conflicting_feature_groups,row_reconciliation_passed,value_imputation_applied,unit_conversion_applied,outlier_deletion_applied
+Crop Recommendation using Soil Properties and Weather Prediction.csv,3867,0,3867,26,0,5,2,True,False,False,False
+Crop and fertilizer dataset.csv,4513,0,4513,0,0,14,7,True,False,False,False
+Crop_Recommendation.csv,2200,0,2200,0,0,0,0,True,False,False,False
+crop yield prediction dataset.csv,246091,0,246091,19506,0,238423,3057,True,False,False,False
+crop-yield.csv,10000,0,10000,0,0,0,0,True,False,False,False
+crop_data.csv,694,48,646,0,0,24,12,True,False,False,False
+crop_yield.csv,19689,0,19689,1902,0,19689,657,True,False,False,False
+data_core.csv,8000,0,8000,2157,0,0,0,True,False,False,False
+original_dataset.csv,5000,4000,1000,0,0,0,0,True,False,False,False
