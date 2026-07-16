@@ -1,3 +1,1 @@
-# Keep oversized raw artifacts local; GitHub hard limit is 100MB per file.
-processed_dataset/by_source/crop_yield_prediction.csv
-processed_dataset/cleaned_by_source/crop_yield_prediction.csv
+# Large files are handled with Git LFS via .gitattributes.
